@@ -16,4 +16,12 @@ nav > ul {
 
 nav a {
   text-decoration: none;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.875px;
+
+  color: #17233D;
 }
