@@ -26,3 +26,17 @@ nav > ul {
   color: #17233D;
   cursor: pointer;
 }
+
+#button-singUp {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+  background: #6FBF44;
+  border: 1px solid #4CB538;
+  border-radius: 6px;
+  height: 51px;
+  width: 124px;
+  text-align: center;
+}
