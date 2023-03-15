@@ -9,6 +9,7 @@ nav {
   gap: 32px;
   margin-top: 45px;
   margin-left: 45px;
+  align-items: center;
 }
 
 nav > ul {
@@ -36,7 +37,6 @@ nav > ul {
   background: #6FBF44;
   border: 1px solid #4CB538;
   border-radius: 6px;
-  height: 51px;
-  width: 124px;
+  padding: 10px 30px;
   text-align: center;
 }
