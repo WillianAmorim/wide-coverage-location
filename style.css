@@ -8,3 +8,8 @@ nav {
   display: flex;
   gap: 32px;
 }
+
+nav > ul {
+  display: flex;
+  gap: 32px;
+}
