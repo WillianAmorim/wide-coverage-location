@@ -44,3 +44,10 @@ nav > ul {
   padding: 10px 30px;
   text-align: center;
 }
+
+figure img {
+  margin-top: 60px;
+  margin-left: 80px;
+  width: 550px;
+  height: 450px;
+}
