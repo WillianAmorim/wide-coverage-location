@@ -47,6 +47,7 @@ nav > ul {
 
 #container {
   display: flex;
+  gap: 70px;
 }
 
 figure img {
@@ -54,6 +55,14 @@ figure img {
   margin-left: 80px;
   width: 550px;
   height: 450px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-right: 70px;
+  margin-top: 140px;
 }
 
 #container section h1 {
@@ -70,6 +79,7 @@ figure img {
   line-height: 33px;
   letter-spacing: 0.5px;
   color: #4B505A;
+  margin-right: 30px;
 }
 
 #container section a {
