@@ -71,3 +71,12 @@ figure img {
   letter-spacing: 0.5px;
   color: #4B505A;
 }
+
+#container section a {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 1px;
+  color: #6FBF44;
+  text-decoration: none;
+}
