@@ -45,6 +45,10 @@ nav > ul {
   text-align: center;
 }
 
+#container {
+  display: flex;
+}
+
 figure img {
   margin-top: 60px;
   margin-left: 80px;
