@@ -121,12 +121,24 @@ section {
   right: 0;
 }
 
+.hvr-underline-from-left:active {
+  opacity: 0.5;
+}
+
 #button-singUp:hover {
   border: 1px solid #6FBF44;
   background-color: #FFFFFF;
   color: #6FBF44;
 }
 
+#button-singUp:active {
+  opacity: 0.5;
+}
+
 #button-learnMore:hover {
   color: #17233D;
+}
+
+#button-learnMore:active {
+  opacity: 0.5;
 }
