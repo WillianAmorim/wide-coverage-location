@@ -1,5 +1,5 @@
 # Título do Projeto
-Easy Shopping Via Mobile
+Wide Coverage Location
 
 # Objetivos
 Demonstrar a página inicial de um site, onde no formato web ele tem efeitos de hover no menu, já no modelo mobile o menu para de existir, ficando tudo responsivo
@@ -20,7 +20,7 @@ Demonstrar a página inicial de um site, onde no formato web ele tem efeitos de 
 
 É um projeto com um design simples, porém de destaque, onde existe alguns efeitos de mouse na parte web do projeto, sendo adicionado ao mesmo a `responsividade` para aparelhos celulares. Deixarei o link para que consigam acompanhar mais de perto o projeto !
 
-Link: https://willianamorim.github.io/easy-shopping-via-mobile/
+Link: https://willianamorim.github.io/wide-coverage-location/
 
 ## Como Contribuir
 
